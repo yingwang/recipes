@@ -1,7 +1,9 @@
 site_name: "家常菜谱"
 site_description: "以杭州口味为基线的家常菜谱。中餐(杭州/江浙/粤/川/北方)+ 常见法意菜。家里灶头能复刻,讲究火候、时令、克制。"
+site_url: https://yingwang.github.io/recipes/
 repo_name: yingwang/recipes
-edit_uri: edit/main/
+repo_url: https://github.com/yingwang/recipes
+edit_uri: edit/main/docs/
 
 docs_dir: docs
 site_dir: _site
@@ -17,6 +19,7 @@ theme:
     - navigation.instant
     - navigation.expand
     - toc.follow
+    - toc.integrate
     - search.highlight
     - search.share
     - search.suggest
@@ -48,6 +51,7 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+      toc_depth: 2
 
 plugins:
   - search:
@@ -56,7 +60,7 @@ plugins:
         - zh
 
 nav:
-  - 首页: README.md
+  - 首页: index.md
   - 序言 + 杭州口味的基线: chapters/00-preface.md
   - 第二部 - 杭州: chapters/01-hangzhou.md
   - 第三部 - 江浙(淮扬/本帮/苏州/绍兴/宁波): chapters/02-jiangzhe.md
