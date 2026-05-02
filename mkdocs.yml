@@ -1,0 +1,76 @@
+site_name: "家常菜谱"
+site_description: "以杭州口味为基线的家常菜谱。中餐(杭州/江浙/粤/川/北方)+ 常见法意菜。家里灶头能复刻,讲究火候、时令、克制。"
+repo_name: yingwang/recipes
+edit_uri: edit/main/
+
+docs_dir: docs
+site_dir: _site
+use_directory_urls: true
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.top
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.instant
+    - navigation.expand
+    - toc.follow
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang:
+        - en
+        - zh
+
+nav:
+  - 首页: README.md
+  - 序言 + 杭州口味的基线: chapters/00-preface.md
+  - 第二部 - 杭州: chapters/01-hangzhou.md
+  - 第三部 - 江浙(淮扬/本帮/苏州/绍兴/宁波): chapters/02-jiangzhe.md
+  - 第四部 - 粤菜: chapters/03-cantonese.md
+  - 第五部 - 川菜(杭州口味友好版): chapters/04-sichuan.md
+  - 第六部 - 北方家常: chapters/05-northern.md
+  - 第七部 - 日韩: chapters/06-japan-korea.md
+  - 第八部 - 东南亚(泰/越): chapters/07-southeast-asia.md
+  - 第九部 - 印度: chapters/08-india.md
+  - 第十部 - 法国家常: chapters/09-french.md
+  - 第十一部 - 意大利家常: chapters/10-italian.md
+  - 第十二部 - 西班牙 Tapas: chapters/11-spanish.md
+  - 第十三部 - 烹饪技巧: chapters/12-techniques.md
+
+copyright: |
+  Copyright &copy; 2026 Ying Wang -
+  <a href="https://github.com/yingwang/recipes/blob/main/LICENSE">CC BY-NC-SA 4.0</a>
