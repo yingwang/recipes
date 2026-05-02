@@ -535,3 +535,37 @@
 - 面糊太稀：一倒就破
 
 ---
+
+## 文化与场景
+
+### 时令与节气
+
+法国四季分明菜单跟着月份换。春季是芦笋季，普罗旺斯紫芦笋只 4-5 月有，豌豆、蚕豆、洋蓟也集中这两月。夏季是番茄、甜瓜（melon de Cavaillon）、桃杏季，南法做 ratatouille 要等 7 月番茄真甜才动手。秋季是蘑菇松露季：牛肝菌 9-10 月爆发，黑松露 11 月开挖到 2 月，佩里戈尔和普罗旺斯是产区。冬季依赖根茎类。
+
+猎季（gibier）从 9 月到 2 月，野味餐厅这几个月才上狍子、野猪、雉鸡、野兔。法律规定每个物种的开闭猎日，过季撤菜单不冷冻保留。野味讲究 faisandage（挂熟），打下来的鸟挂阴凉处 3-7 天让肉质软化风味浓缩。
+
+### 餐桌格局
+
+正餐结构固定：entrée + plat + fromage + dessert，顺序不能换。奶酪盘按硬度从软到硬摆 3-5 种。奶酪在甜点前的逻辑是奶酪收尾咸味段配剩下的红酒，甜点开新页配甜酒或咖啡。
+
+面包永远在桌上，直接放桌布上不放盘子，法式 nappe 就是为了承接面包屑。面包用来推菜上叉子不是手撕蘸酱。用面包擦盘子叫 saucer，家里和小馆子可以米其林不行。刀叉右手刀左手叉同时拿不切换，吃完平行摆 4 点钟方向。
+
+酒配菜不是配主食。白配鱼红配肉是底层规则，更细按地区：勃艮第 boeuf bourguignon 配 Pinot Noir，南法 bouillabaisse 配 rosé，阿尔萨斯 choucroute 配 Riesling。
+
+### 节庆与仪式
+
+圣诞 réveillon（12 月 24 日深夜大餐）是一年最重要的一顿：huîtres（生蚝至少 6 个）配 Muscadet；foie gras 配 Sauternes；主菜 dinde aux marrons（栗子烤火鸡）；奶酪盘；甜点必是 bûche de Noël。从晚上 9 点吃到凌晨 1 点。
+
+Epiphany（1 月 6 日，三王节）吃 galette des rois，千层酥皮夹 frangipane 馅藏一颗陶瓷 fève，吃到的人当国王戴纸冠。1 月所有 boulangerie 橱窗全是 galette。
+
+复活节吃 agneau pascal 象征基督献祭，普罗旺斯做 gigot d'agneau aux herbes 配 flageolets 白扁豆。早上孩子在花园找巧克力蛋，传说是钟从罗马飞回来撒下的。
+
+### 跟邻近菜系的边界
+
+法 vs 意：脂肪选择不同。法国用黄油（北法、勃艮第、诺曼底产），意大利用橄榄油。酱汁哲学也分家：法餐从 5 母酱衍生几百种，肉和酱分开做最后合体；意餐讲本味，调味是衬托不是覆盖。
+
+法 vs 比利时：薯条之争。比利时人说 frites 是 17 世纪在默兹河边发明的（鱼禁捕季把切条土豆代替小鱼炸），国际共识倾向比利时起源。比利时对薯条更讲究：双炸用牛油不用植物油，配蛋黄酱不配番茄酱。
+
+cuisine classique vs régionale：法餐两套并行体系。classique 由 Carême 和 Escoffier 编纂规范，讲酱汁体系刀工标准，米其林和厨艺学校教的都是这套。régionale 是各省家常：阿尔萨斯 choucroute、普罗旺斯 bouillabaisse、西南 cassoulet、里昂 quenelles。两套不替代：米其林不点 cassoulet，回家不做 sole meunière。
+
+---
