@@ -167,6 +167,8 @@
 
 ## 亲子丼（おやこどん）
 
+![亲子丼](../images/dishes/06-japan-korea-亲子丼.jpg){ width="360" .center }
+
 ### 起源
 
 「亲子」是父母和孩子，鸡和蛋的关系。一锅煮鸡腿肉和蛋盖在白米饭上，是日本家庭和食堂最普及的盖饭之一。10 分钟的事，日式高汤打底所以味道清而深。
@@ -266,6 +268,8 @@
 
 ## 石锅拌饭（비빔밥 / bibimbap）
 
+![石锅拌饭](../images/dishes/06-japan-korea-石锅拌饭.jpg){ width="360" .center }
+
 ### 起源
 
 韩国国民菜。石锅烧热放饭，铺各色蔬菜和牛肉，中间一颗生鸡蛋（或半熟），淋韩式辣椒酱拌着吃。石锅底会形成锅巴（누룽지 nurungji），是这道饭的精华。家里没有石锅可以用厚底铁锅或砂锅代替。
@@ -320,6 +324,8 @@
 ---
 
 ## 部队锅（부대찌개 / budae jjigae）
+
+![部队锅](../images/dishes/06-japan-korea-部队锅.jpg){ width="360" .center }
 
 ### 起源
 
@@ -380,6 +386,8 @@
 ---
 
 ## 韩式海鲜葱饼（해물파전 / haemul pajeon）
+
+![韩式海鲜葱饼](../images/dishes/06-japan-korea-韩式海鲜葱饼.jpg){ width="360" .center }
 
 ### 起源
 
@@ -497,6 +505,8 @@
 ---
 
 ## 泡菜炒饭（김치볶음밥 / kimchi bokkeumbap）
+
+![泡菜炒饭](../images/dishes/06-japan-korea-泡菜炒饭.jpg){ width="360" .center }
 
 ### 起源
 

@@ -24,6 +24,8 @@
 
 ## Patatas Bravas（辣酱炸土豆）
 
+![Patatas](../images/dishes/11-spanish-Patatas.jpg){ width="360" .center }
+
 ### 起源
 
 马德里酒馆最常见的 tapa，一盘炸土豆块淋上 bravas 辣酱（番茄 + 烟熏红椒粉 + 一点辣）和 alioli（蒜蛋黄酱）。两酱一红一白对比，土豆外脆内软。简单到极致，但每家酒馆的酱都不一样。
@@ -82,6 +84,8 @@ alioli 简化版：
 
 ## Tortilla Española（西班牙土豆煎蛋）
 
+![Tortilla](../images/dishes/11-spanish-Tortilla.jpg){ width="360" .center }
+
 ### 起源
 
 西班牙国民菜，每家酒馆都有，每家做法略不同。土豆 + 鸡蛋 + 洋葱 + 橄榄油，一锅煎成厚厚一块，切角配面包吃。冷热都能吃，常温最香。家里做一锅能吃两顿。
@@ -127,6 +131,8 @@ alioli 简化版：
 ---
 
 ## Gambas al Ajillo（蒜油烩虾）
+
+![Gambas](../images/dishes/11-spanish-Gambas.jpg){ width="360" .center }
 
 ### 起源
 
@@ -174,6 +180,8 @@ alioli 简化版：
 ---
 
 ## Pan con Tomate（番茄面包）
+
+![Pan](../images/dishes/11-spanish-Pan.jpg){ width="360" .center }
 
 ### 起源
 
@@ -329,6 +337,8 @@ béchamel 馅：
 ---
 
 ## Paella Valenciana（家常版瓦伦西亚海鲜饭）
+
+![Paella](../images/dishes/11-spanish-Paella.jpg){ width="360" .center }
 
 ### 起源
 

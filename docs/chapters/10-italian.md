@@ -22,6 +22,8 @@
 
 ## Carbonara（罗马蛋黄培根意面）
 
+![Carbonara](../images/dishes/10-italian-Carbonara.jpg){ width="360" .center }
+
 ### 起源
 
 罗马四大经典意面之一。**正宗 carbonara 没有奶油**，这是意大利人的红线，跟你跟杭州人讨论"西湖醋鱼能不能用糖醋汁"一个性质。奶油的顺滑感是用蛋黄 + Pecorino + 煮面水乳化出来的，加奶油就是承认你不会做这道菜。家里做用培根代替 guanciale 可以接受，但奶油绝对不行。
@@ -163,6 +165,8 @@
 
 ## Pesto alla Genovese（青酱意面）
 
+![Pesto](../images/dishes/10-italian-Pesto.jpg){ width="360" .center }
+
 ### 起源
 
 热那亚（Genova）的青酱，七样东西：罗勒、松子、大蒜、Parmigiano、Pecorino、橄榄油、海盐。传统是石臼捣的，家里用料理机也行，**但料理机有个坑**，刀片高速转动会让罗勒发热氧化变黑。诀窍是分次短时间打 + 提前把罗勒和料理杯冰一下。
@@ -213,6 +217,8 @@
 ---
 
 ## Risotto alla Milanese（米兰藏红花烩饭）
+
+![Risotto](../images/dishes/10-italian-Risotto.jpg){ width="360" .center }
 
 ### 起源
 
@@ -385,6 +391,8 @@ Gremolata（最后撒，提味的关键）：
 ---
 
 ## Tiramisù（提拉米苏）
+
+![Tiramisù](../images/dishes/10-italian-Tiramisu.jpg){ width="360" .center }
 
 ### 起源
 

@@ -28,6 +28,8 @@
 
 ## 冬阴功汤（Tom Yum Goong）
 
+![冬阴功汤](../images/dishes/07-southeast-asia-冬阴功汤.jpg){ width="360" .center }
+
 ### 起源
 
 泰国国汤。"tom" 是煮、"yum" 是泰式酸辣凉拌的"拌"、"goong" 是虾。家里做的版本分两派：清汤版（tom yum nam sai）和奶汤版（tom yum nam khon，加椰浆或淡奶）。本书写**清汤版**，因为更接近杭州人对汤的期待 - 清亮见底、酸辣开胃。香茅、南姜、青柠檬叶是这汤的灵魂三件套，少一样就不是这个味。
@@ -81,6 +83,8 @@
 ---
 
 ## 泰式青咖喱鸡（Gaeng Khiao Wan Gai）
+
+![泰式青咖喱鸡](../images/dishes/07-southeast-asia-泰式青咖喱鸡.jpg){ width="360" .center }
 
 ### 起源
 
@@ -187,6 +191,8 @@
 
 ## 泰式炒河粉（Pad Thai）
 
+![泰式炒河粉](../images/dishes/07-southeast-asia-泰式炒河粉.jpg){ width="360" .center }
+
 ### 起源
 
 泰国国民炒粉，二战时期国家推广发明的国民料理。"pad" 是炒、"thai" 是泰国 - 字面意思就是"泰式炒"。河粉、虾、豆芽、韭菜、花生碎、青柠角、辣椒粉、鱼露 + 罗望子酱 + 棕榈糖的酸甜咸三角是味觉指纹。家里做最关键是**罗望子酱**（tamarind paste），没有的话这道菜的酸做不出来。
@@ -246,6 +252,8 @@
 
 ## 芒果糯米饭（Khao Niao Mamuang）
 
+![芒果糯米饭](../images/dishes/07-southeast-asia-芒果糯米饭.jpg){ width="360" .center }
+
 ### 起源
 
 泰国国民甜品，"khao niao" 是糯米、"mamuang" 是芒果。糯米用椰浆 + 糖 + 盐拌匀，配熟透的芒果切块，淋一点带咸味的椰浆酱。家里做最关键是**糯米要用泰国长粒糯米**（thai sticky rice），不是国内圆粒糯米 - 圆粒蒸出来发黏成糕，长粒蒸出来粒粒分明又软糯。
@@ -291,6 +299,8 @@
 ---
 
 ## 越南河粉（Phở Bò / Phở Gà）
+
+![越南河粉](../images/dishes/07-southeast-asia-越南河粉.jpg){ width="360" .center }
 
 ### 起源
 
@@ -360,6 +370,8 @@
 ---
 
 ## 越南生春卷（Gỏi Cuốn）
+
+![越南生春卷](../images/dishes/07-southeast-asia-越南生春卷.jpg){ width="360" .center }
 
 ### 起源
 
