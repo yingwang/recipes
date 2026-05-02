@@ -53,6 +53,9 @@ markdown_extensions:
       permalink: true
       toc_depth: 2
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins:
   - search:
       lang:

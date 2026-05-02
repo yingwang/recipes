@@ -4,7 +4,7 @@
 
 这章选 8 道家里炉灶 + 烤箱能做的家常菜。**这章基本不需要"杭州友好版改造"**，意大利家常本身就清淡。需要注意的是食材：意面用 De Cecco 或 Barilla 进口的（国产意面口感差一档）、Parmigiano Reggiano 必须用真的硬芝士（不是青色罐装的"芝士粉"那种工业品）、Mascarpone 不能用 cream cheese 替代、米必须用 Carnaroli 或 Arborio（东北米泰国米都不行，淀粉结构不对）。这些正经超市进口区都能买到，别在原料上省。
 
-![10-italian](../images/chapters/10-italian.jpg)
+![10-italian](../images/chapters/10-italian.jpg){ width="480" .center }
 
 ---
 

@@ -8,7 +8,7 @@
 
 辣度方面，杭州人接受度最高的是**汤系**（pho、tom yum 清汤版），其次是**椰浆系**（青咖喱），椰浆能压辣。罗勒猪肉碎饭和泰式炒粉杭州人也吃得下来，但鸟眼椒（朝天椒）的量建议**减一档** - 泰国人放 6 个，咱放 2-3 个就够了。
 
-![07-southeast-asia](../images/chapters/07-southeast-asia.jpg)
+![07-southeast-asia](../images/chapters/07-southeast-asia.jpg){ width="480" .center }
 
 ---
 

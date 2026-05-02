@@ -4,7 +4,7 @@
 
 杭州人做粤菜要注意两件事：一是烧腊（叉烧、烧肉、烧鸭）家庭版要降油，馆子那种油亮油亮的家里吃不消；二是老火汤别真按广东人三四个小时炖，1.5 小时足够，再久就汤浊味闷。
 
-![03-cantonese](../images/chapters/03-cantonese.jpg)
+![03-cantonese](../images/chapters/03-cantonese.jpg){ width="480" .center }
 
 ---
 

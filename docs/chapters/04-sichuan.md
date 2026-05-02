@@ -13,7 +13,7 @@
 
 家里要常备的川菜调料：郫县豆瓣酱、花椒（或藤椒）、干辣椒、生抽、镇江醋、白糖、料酒、姜蒜。这些都好买，不需要泡椒、剁椒、自制红油这些进阶货。
 
-![04-sichuan](../images/chapters/04-sichuan.jpg)
+![04-sichuan](../images/chapters/04-sichuan.jpg){ width="480" .center }
 
 ---
 

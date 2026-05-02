@@ -12,7 +12,7 @@
 
 关于米：印度香饭（biryani）必须用 basmati 长粒米，**不能换中国大米**。原因下文具体展开，但简单说：basmati 的直链淀粉比例高、米粒细长，蒸煮后粒粒分明、不黏；中国大米支链淀粉高，煮出来粘成一坨，整道 biryani 就毁了。
 
-![08-india](../images/chapters/08-india.jpg)
+![08-india](../images/chapters/08-india.jpg){ width="480" .center }
 
 ---
 
