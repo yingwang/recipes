@@ -92,22 +92,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 
 ## 菜级别图片
 
-### 01-hangzhou / 家常红烧肉
-
-- File: `images/dishes/01-hangzhou-家常红烧肉.jpg`
-- Original: [File:Red Braised Pork Belly Bao - Tiger Bites Pig 2025-11-20.jpg](https://commons.wikimedia.org/wiki/File:Red_Braised_Pork_Belly_Bao_-_Tiger_Bites_Pig_2025-11-20.jpg)
-- Author: Andy Li
-- License: CC0
-- Search query: `Red braised pork`
-
-### 01-hangzhou / 腌笃鲜
-
-- File: `images/dishes/01-hangzhou-腌笃鲜.jpg`
-- Original: [File:職貢圖. 圖次69-70, 整欠頭目先邁岩第 景海頭目先綱洪Zheng qian tou mu xian mai yan di jing hai tou mu xian gang hong - btv1b55010243r.jpg](https://commons.wikimedia.org/wiki/File:職貢圖._圖次69-70,_整欠頭目先邁岩第_景海頭目先綱洪Zheng_qian_tou_mu_xian_mai_yan_di_jing_hai_tou_mu_xian_gang_hong_-_btv1b55010243r.jpg)
-- Author: Qian long (1711-1799 ; empereur de Chine). Commanditaire du contenu
-- License: Public domain
-- Search query: `Yan du xian`
-
 ### 01-hangzhou / 糖醋排骨
 
 - File: `images/dishes/01-hangzhou-糖醋排骨.jpg`
@@ -124,38 +108,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - License: CC BY-SA 4.0
 - Search query: `Mei gan cai`
 
-### 01-hangzhou / 油焖春笋
-
-- File: `images/dishes/01-hangzhou-油焖春笋.jpg`
-- Original: [File:CR400BF-5001@BJN (20170921132232).jpg](https://commons.wikimedia.org/wiki/File:CR400BF-5001@BJN_(20170921132232).jpg)
-- Author: N509FZ
-- License: CC BY-SA 4.0
-- Search query: `Braised bamboo shoots`
-
-### 01-hangzhou / 番茄炒蛋
-
-- File: `images/dishes/01-hangzhou-番茄炒蛋.jpg`
-- Original: [File:Set D - Tomato Soup Macaroni with Scrambled Egg, Toasted Bun, Buttered Sweet Corn - HOKO 2024-12-21.jpg](https://commons.wikimedia.org/wiki/File:Set_D_-_Tomato_Soup_Macaroni_with_Scrambled_Egg,_Toasted_Bun,_Buttered_Sweet_Corn_-_HOKO_2024-12-21.jpg)
-- Author: Andy Li
-- License: CC0
-- Search query: `Tomato scrambled egg`
-
-### 01-hangzhou / 红烧带鱼
-
-- File: `images/dishes/01-hangzhou-红烧带鱼.jpg`
-- Original: [File:CR400BF-5001@BJN (20170921132232).jpg](https://commons.wikimedia.org/wiki/File:CR400BF-5001@BJN_(20170921132232).jpg)
-- Author: N509FZ
-- License: CC BY-SA 4.0
-- Search query: `Braised hairtail`
-
-### 01-hangzhou / 葱油拌面
-
-- File: `images/dishes/01-hangzhou-葱油拌面.jpg`
-- Original: [File:HK food 豆豉 Black Bean oil Noodle Dec-2015 DSC.JPG](https://commons.wikimedia.org/wiki/File:HK_food_豆豉_Black_Bean_oil_Noodle_Dec-2015_DSC.JPG)
-- Author: Fiarwalloe 2015
-- License: CC BY-SA 4.0
-- Search query: `Scallion oil noodles`
-
 ### 02-jiangzhe / 蟹粉狮子头
 
 - File: `images/dishes/02-jiangzhe-蟹粉狮子头.jpg`
@@ -163,14 +115,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - Author: 三猎
 - License: CC BY-SA 4.0
 - Search query: `Lion's head meatball`
-
-### 02-jiangzhe / 响油鳝糊
-
-- File: `images/dishes/02-jiangzhe-响油鳝糊.jpg`
-- Original: [File:Wang Ximeng. A Thousand Li of Rivers and Mountains. (Complete, 51,3x1191,5 cm). 1113. Palace museum, Beijing.jpg](https://commons.wikimedia.org/wiki/File:Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._(Complete,_51,3x1191,5_cm)._1113._Palace_museum,_Beijing.jpg)
-- Author: Wang Xi
-- License: Public domain
-- Search query: `Xiang you shan hu`
 
 ### 02-jiangzhe / 绍兴醉鸡
 
@@ -180,14 +124,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - License: CC BY-SA 4.0
 - Search query: `Drunken chicken`
 
-### 02-jiangzhe / 松鼠桂鱼
-
-- File: `images/dishes/02-jiangzhe-松鼠桂鱼.jpg`
-- Original: [File:Red squirrel (54760837136).jpg](https://commons.wikimedia.org/wiki/File:Red_squirrel_(54760837136).jpg)
-- Author: U.S. Fish and Wildlife Service - Midwest Region
-- License: Public domain
-- Search query: `Squirrel fish`
-
 ### 03-cantonese / 白切鸡
 
 - File: `images/dishes/03-cantonese-白切鸡.jpg`
@@ -195,14 +131,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - Author: Hauwmei Maiwmgs
 - License: CC BY-SA 4.0
 - Search query: `White cut chicken`
-
-### 03-cantonese / 蜜汁叉烧
-
-- File: `images/dishes/03-cantonese-蜜汁叉烧.jpg`
-- Original: [File:Brick Lane Char Siu Beigel (with scrambled eggs) - HOKO 2024-12-21.jpg](https://commons.wikimedia.org/wiki/File:Brick_Lane_Char_Siu_Beigel_(with_scrambled_eggs)_-_HOKO_2024-12-21.jpg)
-- Author: Andy Li
-- License: CC0
-- Search query: `Char siu`
 
 ### 03-cantonese / 豉油鸡
 
@@ -516,30 +444,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - License: CC0
 - Search query: `Daikon braised pork`
 
-### 01-hangzhou / 韭黄炒蛋
-
-- File: `images/dishes/01-hangzhou-韭黄炒蛋.jpg`
-- Original: [File:HK TKL 調景嶺 Tiu Keng Leng 彩明街 Choi Ming Street 景嶺道 King Ling Road 彩明商場 Choi Ming Shopping Centre 茶魚飯后 restaurant menu January 2023 Px3.jpg](https://commons.wikimedia.org/wiki/File:HK_TKL_調景嶺_Tiu_Keng_Leng_彩明街_Choi_Ming_Street_景嶺道_King_Ling_Road_彩明商場_Choi_Ming_Shopping_Centre_茶魚飯后_restaurant_menu_January_2023_Px3.jpg)
-- Author: KASMYSZIEpago MEIGAUM
-- License: CC BY-SA 4.0
-- Search query: `Yellow chives egg stir fry`
-
-### 01-hangzhou / 萝卜丝鲫鱼汤
-
-- File: `images/dishes/01-hangzhou-萝卜丝鲫鱼汤.jpg`
-- Original: [File:Historical figures of Sui and Tang Dynasties.jpg](https://commons.wikimedia.org/wiki/File:Historical_figures_of_Sui_and_Tang_Dynasties.jpg)
-- Author: Unknown authorUnknown author
-- License: Public domain
-- Search query: `Ji yu tang`
-
-### 01-hangzhou / 炒青菜
-
-- File: `images/dishes/01-hangzhou-炒青菜.jpg`
-- Original: [File:Nai Sow ร้านอาหาร นายโซว (2025) - razor clam stir fried.jpg](https://commons.wikimedia.org/wiki/File:Nai_Sow_ร้านอาหาร_นายโซว_(2025)_-_razor_clam_stir_fried.jpg)
-- Author: Chainwit.
-- License: CC BY 4.0
-- Search query: `Stir fried greens`
-
 ### 01-hangzhou / 肉饼蛋汤
 
 - File: `images/dishes/01-hangzhou-肉饼蛋汤.jpg`
@@ -548,14 +452,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - License: CC BY-SA 4.0
 - Search query: `Steamed pork egg cake`
 
-### 01-hangzhou / 油爆虾
-
-- File: `images/dishes/01-hangzhou-油爆虾.png`
-- Original: [File:Western Xia - Guang Ding Yuan Bao.png](https://commons.wikimedia.org/wiki/File:Western_Xia_-_Guang_Ding_Yuan_Bao.png)
-- Author: Gohyuloong
-- License: CC BY-SA 4.0
-- Search query: `You bao xia`
-
 ### 02-jiangzhe / 文思豆腐
 
 - File: `images/dishes/02-jiangzhe-文思豆腐.jpg`
@@ -563,30 +459,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - Author: Zixiao Xing
 - License: CC0
 - Search query: `Wensi tofu`
-
-### 02-jiangzhe / 葱烤鲫鱼
-
-- File: `images/dishes/02-jiangzhe-葱烤鲫鱼.jpg`
-- Original: [File:Liu Bang and White Python Statue.jpg](https://commons.wikimedia.org/wiki/File:Liu_Bang_and_White_Python_Statue.jpg)
-- Author: Gary Todd
-- License: CC0
-- Search query: `Cong kao ji yu`
-
-### 02-jiangzhe / 雪菜黄鱼
-
-- File: `images/dishes/02-jiangzhe-雪菜黄鱼.png`
-- Original: [File:The multistage pipeline of DeepSeek-R1.png](https://commons.wikimedia.org/wiki/File:The_multistage_pipeline_of_DeepSeek-R1.png)
-- Author: Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Peiyi Wang, Qihao Zhu, Runxin Xu, Ruoyu Zhang, Shirong Ma, Xiao Bi, Xiaokang Zhang, Xingkai Yu, Yu Wu, Z. F. Wu, Zhibin Gou, Zhihong Shao, Zhuoshu Li, Ziyi Gao, Aixin Liu, Bing Xue, Bingxuan Wang, Bochao Wu, Bei Feng, Chengda Lu, Chenggang Zhao, Chengqi Deng, Chong Ruan, Damai Dai, Deli Chen, Dongjie Ji, Erhang Li, Fangyun Lin, Fucong Dai, Fuli Luo, Guangbo Hao, Guanting Chen, Guowei Li, H. Zhang, Hanwei Xu, Honghui Ding, Huazuo Gao, Hui Qu, Hui Li, Jianzhong Guo, Jiashi Li, Jingchang Chen, Jingyang Yuan, Jinhao Tu, Junjie Qiu, Junlong Li, J. L. Cai, Jiaqi Ni, Jian Liang, Jin Chen, Kai Dong, Kai Hu, Kaichao You, Kaige Gao, Kang Guan, Kexin Huang, Kuai Yu, Lean Wang, Lecong Zhang, Liang Zhao, Litong Wang, Liyue Zhang, Lei Xu, Leyi Xia, Mingchuan Zhang, Minghua Zhang, Minghui Tang, Mingxu Zhou, Meng Li, Miaojun Wang, Mingming Li, Ning Tian, Panpan Huang, Peng Zhang, Qiancheng Wang, Qinyu Chen, Qiushi Du, Ruiqi Ge, Ruisong Zhang, Ruizhe Pan, Runji Wang, R. J. Chen, R. L. Jin, Ruyi Chen, Shanghao Lu, Shangyan Zhou, Shanhuang Chen, Shengfeng Ye, Shiyu Wang, Shuiping Yu, Shunfeng Zhou, Shuting Pan, S. S. Li, Shuang Zhou, Shaoqing Wu, Tao Yun, Tian Pei, Tianyu Sun, T. Wang, Wangding Zeng, Wen Liu, Wenfeng Liang, Wenjun Gao, Wenqin Yu, Wentao Zhang, W. L. Xiao, Wei An, Xiaodong Liu, Xiaohan Wang, Xiaokang Chen, Xiaotao Nie, Xin Cheng, Xin Liu, Xin Xie, Xingchao Liu, Xinyu Yang, Xinyuan Li, Xuecheng Su, Xuheng Lin, X. Q. Li, Xiangyue Jin, Xiaojin Shen, Xiaosha Chen, Xiaowen Sun, Xiaoxiang Wang, Xinnan Song, Xinyi Zhou, Xianzu Wang, Xinxia Shan, Y. K. Li, Y. Q. Wang, Y. X. Wei, Yang Zhang, Yanhong Xu, Yao Li, Yao Zhao, Yaofeng Sun, Yaohui Wang, Yi Yu, Yichao Zhang, Yifan Shi, Yiliang Xiong, Ying He, Yishi Piao, Yisong Wang, Yixuan Tan, Yiyang Ma, Yiyuan Liu, Yongqiang Guo, Yuan Ou, Yuduan Wang, Yue Gong, Yuheng Zou, Yujia He, Yunfan Xiong, Yuxiang Luo, Yuxiang You, Yuxuan Liu, Yuyang Zhou, Y. X. Zhu, Yanping Huang, Yaohui Li, Yi Zheng, Yuchen Zhu, Yunxian Ma, Ying Tang, Yukun Zha, Yuting Yan, Z. Z. Ren, Zehui Ren, Zhangli Sha, Zhe Fu, Zhean Xu, Zhenda Xie, Zhengyan Zhang, Zhewen Hao, Zhicheng Ma, Zhigang Yan, Zhiyu Wu, Zihui Gu, Zijia Zhu, Zijun Liu, Zilin Li, Ziwei Xie, Ziyang Song, Zizheng Pan, Zhen Huang, Zhipeng Xu, Zhongyu Zhang &amp; Zhen Zhang
-- License: CC BY 4.0
-- Search query: `Xue cai huang yu`
-
-### 02-jiangzhe / 葱油海蜇
-
-- File: `images/dishes/02-jiangzhe-葱油海蜇.png`
-- Original: [File:100-most-used-chinese-characters.png](https://commons.wikimedia.org/wiki/File:100-most-used-chinese-characters.png)
-- Author: Serg!o
-- License: Public domain
-- Search query: `Cong you hai zhe`
 
 ### 03-cantonese / 清蒸鱼
 
@@ -611,14 +483,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - Author: Scott Teresi
 - License: CC BY-SA 2.0
 - Search query: `Baby cabbage broth`
-
-### 03-cantonese / 番茄炖牛腩
-
-- File: `images/dishes/03-cantonese-番茄炖牛腩.jpg`
-- Original: [File:New Rochelle, New York, USA.jpg](https://commons.wikimedia.org/wiki/File:New_Rochelle,_New_York,_USA.jpg)
-- Author: Quintin Soloviev
-- License: CC BY 4.0
-- Search query: `Niu nan`
 
 ### 03-cantonese / 煲仔饭
 
@@ -652,30 +516,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - License: CC BY-SA 4.0
 - Search query: `Dry fried green beans`
 
-### 04-sichuan / 青椒肉丝
-
-- File: `images/dishes/04-sichuan-青椒肉丝.jpg`
-- Original: [File:Fish-flavoured shredded pork at Meizhou Dongpo Restaurant Shangdi (20190808185406).jpg](https://commons.wikimedia.org/wiki/File:Fish-flavoured_shredded_pork_at_Meizhou_Dongpo_Restaurant_Shangdi_(20190808185406).jpg)
-- Author: N509FZ
-- License: CC BY-SA 4.0
-- Search query: `Green pepper pork shred`
-
-### 04-sichuan / 醋溜白菜
-
-- File: `images/dishes/04-sichuan-醋溜白菜.jpg`
-- Original: [File:Lamb and Carrot Dumplings - Original Taste - Alpha.jpg](https://commons.wikimedia.org/wiki/File:Lamb_and_Carrot_Dumplings_-_Original_Taste_-_Alpha.jpg)
-- Author: avlxyz
-- License: CC BY-SA 2.0
-- Search query: `Vinegar cabbage stir fry`
-
-### 04-sichuan / 红油抄手
-
-- File: `images/dishes/04-sichuan-红油抄手.jpg`
-- Original: [File:2000 Cash (文) - Da-Qing Baochao (大清寶鈔) Cash-note (Xianfeng Period) Auction World 01.jpg](https://commons.wikimedia.org/wiki/File:2000_Cash_(文)_-_Da-Qing_Baochao_(大清寶鈔)_Cash-note_(Xianfeng_Period)_Auction_World_01.jpg)
-- Author: The Ministry of Revenue of the Manchu Qing Dynasty.
-- License: Public domain
-- Search query: `Hong you chao shou`
-
 ### 05-northern / 小鸡炖蘑菇
 
 - File: `images/dishes/05-northern-小鸡炖蘑菇.jpg`
@@ -691,14 +531,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - Author: Daniela Eftimova
 - License: CC BY-SA 4.0
 - Search query: `Pai huang gua`
-
-### 05-northern / 韭菜盒子
-
-- File: `images/dishes/05-northern-韭菜盒子.jpg`
-- Original: [File:Platform to Li Da Station at Xi He Pleasant Valley Station, SYMTR 202501.jpg](https://commons.wikimedia.org/wiki/File:Platform_to_Li_Da_Station_at_Xi_He_Pleasant_Valley_Station,_SYMTR_202501.jpg)
-- Author: EddieZhang0128
-- License: CC BY-SA 4.0
-- Search query: `Jiu cai he zi`
 
 ### 05-northern / 凉拌粉丝
 
@@ -755,22 +587,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - Author: Andy Li
 - License: CC0
 - Search query: `Pad krapow`
-
-### 07-southeast-asia / 越南鸡饭
-
-- File: `images/dishes/07-southeast-asia-越南鸡饭.jpg`
-- Original: [File:Gallium Pellets.jpg](https://commons.wikimedia.org/wiki/File:Gallium_Pellets.jpg)
-- Author: Best Sci-Fatcs
-- License: CC BY-SA 4.0
-- Search query: `Com ga`
-
-### 07-southeast-asia / 越南鱼露蘸汁
-
-- File: `images/dishes/07-southeast-asia-越南鱼露蘸汁.jpg`
-- Original: [File:Bún trộn, James Bun, Paris 27 August 2016 004.jpg](https://commons.wikimedia.org/wiki/File:Bún_trộn,_James_Bun,_Paris_27_August_2016_004.jpg)
-- Author: Guilhem Vellut from Paris, France
-- License: CC BY 2.0
-- Search query: `Nuoc cham`
 
 ### 07-southeast-asia / 越南炼乳冰咖啡
 
