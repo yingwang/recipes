@@ -188,14 +188,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - License: CC0
 - Search query: `Zha jiang mian`
 
-### 05-northern / 葱爆羊肉
-
-- File: `images/dishes/05-northern-葱爆羊肉.jpg`
-- Original: [File:Braised Lamb Neck – Scallion Pancakes, Pickled Vegetables.jpg](https://commons.wikimedia.org/wiki/File:Braised_Lamb_Neck_–_Scallion_Pancakes,_Pickled_Vegetables.jpg)
-- Author: T.Tseng
-- License: CC BY 2.0
-- Search query: `Scallion lamb`
-
 ### 05-northern / 锅包肉
 
 - File: `images/dishes/05-northern-锅包肉.jpg`
@@ -203,14 +195,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - Author: CNHowey
 - License: CC BY-SA 4.0
 - Search query: `Guo bao rou`
-
-### 05-northern / 西红柿打卤面
-
-- File: `images/dishes/05-northern-西红柿打卤面.jpg`
-- Original: [File:Set D - Tomato Soup Macaroni with Scrambled Egg, Toasted Bun, Buttered Sweet Corn - HOKO 2024-12-21.jpg](https://commons.wikimedia.org/wiki/File:Set_D_-_Tomato_Soup_Macaroni_with_Scrambled_Egg,_Toasted_Bun,_Buttered_Sweet_Corn_-_HOKO_2024-12-21.jpg)
-- Author: Andy Li
-- License: CC0
-- Search query: `Tomato egg noodles`
 
 ### 06-japan-korea / 亲子丼
 
@@ -243,14 +227,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - Author: T.Tseng
 - License: CC BY 2.0
 - Search query: `Budae jjigae`
-
-### 06-japan-korea / 韩式煎饼
-
-- File: `images/dishes/06-japan-korea-韩式海鲜葱饼.jpg`
-- Original: [File:Spring onion pancake - Bibimbap Soho 2025-09-18.jpg](https://commons.wikimedia.org/wiki/File:Spring_onion_pancake_-_Bibimbap_Soho_2025-09-18.jpg)
-- Author: Andy Li
-- License: CC0
-- Search query: `Pajeon`
 
 ### 07-southeast-asia / 冬阴功汤
 
@@ -476,14 +452,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - License: CC BY-SA 4.0
 - Search query: `Beef chow fun`
 
-### 03-cantonese / 上汤娃娃菜
-
-- File: `images/dishes/03-cantonese-上汤娃娃菜.jpg`
-- Original: [File:Simple vegetable soup 2009.jpg](https://commons.wikimedia.org/wiki/File:Simple_vegetable_soup_2009.jpg)
-- Author: Scott Teresi
-- License: CC BY-SA 2.0
-- Search query: `Baby cabbage broth`
-
 ### 03-cantonese / 煲仔饭
 
 - File: `images/dishes/03-cantonese-煲仔饭.jpg`
@@ -491,14 +459,6 @@ All chapter hero images are sourced from Wikimedia Commons under Creative Common
 - Author: Peachyeung316
 - License: CC BY-SA 4.0
 - Search query: `Claypot rice`
-
-### 04-sichuan / 蒜泥白肉
-
-- File: `images/dishes/04-sichuan-蒜泥白肉.jpg`
-- Original: [File:A Pork rib eye chops with beans and corn with garlic sauce from Diamond Restaurant.jpg](https://commons.wikimedia.org/wiki/File:A_Pork_rib_eye_chops_with_beans_and_corn_with_garlic_sauce_from_Diamond_Restaurant.jpg)
-- Author: Peachyeung316
-- License: CC BY-SA 4.0
-- Search query: `Pork garlic sauce`
 
 ### 04-sichuan / 凉拌口水鸡
 
